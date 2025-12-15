@@ -20,10 +20,14 @@ Ressources documentaire :
 	-
 
 Part projective et part minimal:
-	-Part projective:
-		-Etendre le logiciel a d'autre formes 		
 	-Part minimal:
-		A
+		- développement d'une application de dessin convertissant en svg
+		- développement d'un client et d'un serveur 
+	-Part projective:
+		-Etendre le logiciel a d'autre formes 	
+		- imprimer des formes Latex 
+		- étendre le logiciel de dessin à des formes géométriques plus complexes
+		- étendre la connexion réseau pour internet
 
 Outils logiciel :
 	-Tkinter : Bibliotheque qui permet de gerer l'intervace graphique du projet
