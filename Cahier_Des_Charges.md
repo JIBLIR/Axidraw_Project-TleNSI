@@ -69,6 +69,22 @@ Fonction make_button permet de créer un bouton.
 
 -Documentation de la machine AxiDraw
 
+-Stack Overflow pour utiliser os
+
+-Documentation Cherrypy pour utiliser cherrypy
+
+https://stackoverflow.com/questions/71104397/how-to-convert-svg-string-to-svg-file-using-python
+
+https://www.datacamp.com/fr/tutorial/how-to-check-if-a-file-exists-in-python
+
+https://docs.cherrypy.dev/en/latest/_modules/cherrypy/tutorial/tut09_files.html#FileDemo.download
+
+Source - https://stackoverflow.com/questions/38991286/cherrypy-upload-file
+
+https://www.datacamp.com/fr/tutorial/comprehensive-tutorial-on-using-pathlib-in-python-for-file-system-manipulation
+
+
+
 
 ## Part projective et part minimal:
 -Part minimal:
@@ -86,6 +102,8 @@ Fonction make_button permet de créer un bouton.
 -AxiDraw : Permet de gerer le moteur de la machine 
 
 - os : pour le traitement des fichiers
+
+- Requests : pour l'envoi en réseau 
 
 Installation de Axidraw : 
 
