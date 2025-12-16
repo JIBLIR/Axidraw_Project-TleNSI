@@ -138,8 +138,6 @@ installer axidraw :
 -Tests et corrections du programme.
 
 
-
-
 ### Voici le fonctionnement en détail :
 
 -Gestion du dessin
@@ -155,8 +153,6 @@ installer axidraw :
 -Transformation des coordonnées du canvas en coordonnées SVG.
 
 -Application d’un facteur d’échelle pour adapter le dessin aux dimensions physiques de l’AxiDraw.
-
--Génération dynamique des balises "<line>", "<rect>" et "<ellipse>".
 
 -Communication réseau
 
