@@ -1,4 +1,10 @@
-sources
+sources :
+
+- Stack Overflow pour utiliser os
+
+- Documentation Cherrypy pour utiliser cherrypy
+
+https://stackoverflow.com/questions/71104397/how-to-convert-svg-string-to-svg-file-using-python
 
 https://www.datacamp.com/fr/tutorial/how-to-check-if-a-file-exists-in-python
 
