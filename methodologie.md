@@ -9,3 +9,4 @@ Pour le serveur, nous utilisons cherrypy, os et axidraw.
 Avec cherrypy nous créons un serveur web accessible partout sur le réseau et nous vérifions si un fichier svg est disponible.
 Si un fichier et disponible (via os) on l'enregistre et on l'imprime, le module axidraw s'occupant de la conversion svg à action.
 
+### Pour le logiciel:
