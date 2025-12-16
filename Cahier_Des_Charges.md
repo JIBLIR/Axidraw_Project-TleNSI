@@ -85,10 +85,25 @@ Fonction make_button permet de créer un bouton.
 
 -AxiDraw : Permet de gerer le moteur de la machine 
 
+- os : pour le traitement des fichiers
+
+Installation de Axidraw : 
+
+code d'installation : 
+
+installer le prebuilt :
+``` >> sudo pip install "nom du fichier zip" ``` 
+
+-- dezipper les fichiers --
+
+installer axidraw :
+``` >> sudo python setup.py install ``` 
+
 ## Matériels nécessaires :
--Un ordinateur
+- 2 ordinateurs (client + serveur)
 
 -Une machine AxiDraw V3 
+
 
 ## Méthodologie : 
 
